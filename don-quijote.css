@@ -10,7 +10,7 @@ body {
   font-family: sans-serif;
   background-color: red;
   color: yellow;
-  font-size: 2vw;
+  font-size: 16px;
 }
 
 h1,
@@ -33,7 +33,7 @@ footer {
   body {
     color: blue;
     background-color: green;
-    font-size: 16px;
+    font-size: 2vw;
   }
 }
 
